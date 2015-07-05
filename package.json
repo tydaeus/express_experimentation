@@ -13,6 +13,8 @@
     "serve-favicon": "~2.1.x",
     "debug": "~2.0.x",
     "jade": "~1.6.x",
-    "less-middleware": "1.0.x"
+    "less-middleware": "1.0.x",
+    "bootstrap": "~3.3.5",
+    "grunt": "~0.4.5"
   }
 }
